@@ -8,19 +8,22 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
-  src="https://media.licdn.com/dms/image/D4D03AQHa3KMTCyaJEA/profile-displayphoto-shrink_800_800/0/1673353039010?e=1681948800&v=beta&t=TzTZe7RC4rvqME8-Wf4SjhtHmZy4LxYrBIk4mV2hswA">
-</div>
+  </div>
   
   ##
- 
-<div> 
-  <a href="https://www.instagram.com/luishenriquedcg/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luis-henrique-901aaa1a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+
 </div>
 
 - :mortar_board:Formado em Análise e Desenvolvimento de Sistemas.
 - :purple_heart:Hoje trabalho como Analiste de Suporte na Inside Sistemas.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisHenriqueCG)](https://github.com/LuisHenriqueCG?tab=repositories)
+ 
+<div> 
+  <a href="https://www.instagram.com/luishenriquedcg/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luis-henrique-901aaa1a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+  <div align="left">
+  <a href="https://github.com/LuisHenriqueCG">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LuisHenriqueCG&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisHenriqueCG&layout=compact&langs_count=7&theme=dracula"/>
+</div>
